@@ -49,4 +49,4 @@ HAVING
 ORDER BY
     salary_skill_average DESC,
     demand_count DESC
-LIMIT 25; 
+LIMIT 30; 
