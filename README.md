@@ -47,7 +47,7 @@ ORDER BY
     salary_year_avg DESC
 LIMIT 10;
 ```
-![Top-paying Jobs](Assets\Q1.jpg)
+![Top-paying Jobs](https://github.com/JuanjoAlvarado/SQL_Project_Data_Job_Analysis/blob/main/Assets/Q1.jpg)
 *Bar graph 1. Visualizing the year average salary of the top jobs for data analysts.*
 ### 2. Skills for top-paying Jobs
 Provide a detailed look at wich high_paying jobs demand certain 
@@ -90,7 +90,7 @@ ORDER BY
     salary_year_avg DESC
 
 ```
-![Skills top Jobs](Assets\Q2.jpg)
+![Skills top Jobs](https://github.com/JuanjoAlvarado/SQL_Project_Data_Job_Analysis/blob/main/Assets/Q2.jpg)
 *Bar graph 2. Visualizing the demand count of skills for the top-paying jobs for data analysts*
 
 ### 3. In-demand skills for data analyst
@@ -193,11 +193,11 @@ ORDER BY
     demand_count DESC
 LIMIT 30; 
 ```
-![Optimal Skills 1](Assets\Q5.jpg)
+![Optimal Skills 1](https://github.com/JuanjoAlvarado/SQL_Project_Data_Job_Analysis/blob/main/Assets/Q5.jpg)
 *Bar graph 3. Top 30 Highest Average Salaries per skill for data analyst roles.*
 
 
-![Optimal Skills 2](Assets\Q5(1).jpg)
+![Optimal Skills 2](https://github.com/JuanjoAlvarado/SQL_Project_Data_Job_Analysis/blob/main/Assets/Q5(1).jpg)
 *Bar graph 4. The skills associated to the top 30 Highest Average Salaries for data analyst roles.*
 # What I Learned
 By creating this project I was able to develop and expand my knowledge about SQL language tools and a database management system like PostgreSQL. Specifically:
